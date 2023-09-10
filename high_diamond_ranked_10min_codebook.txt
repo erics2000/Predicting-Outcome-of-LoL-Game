@@ -1,0 +1,23 @@
+Since many of the variables are same for the blue and red team, I will introduce them together.
+
+gameId: Unique identification number for each game
+blueWins: whether the blue team won. 1 = Yes, 0 = No
+blue/redWardsPlaced: number of wards the blue/red team placed
+blue/redWardsDestroyed: number of wards the blue/red team destroyed
+blue/redfirstBlood: number of first killl the blue/red team had
+blue/redKills: total number of kills the blue/red team had
+blue/redDeaths: total number of kills the blue/red team had
+blue/redAssists: total number of assists the blue/red team had
+blue/redEliteMonster: number of elite monsters the blue/red team killed
+blue/redDragons: number of dragons the blue/red team killed
+blue/redHeralds: number of Heralds the blue/red team killed
+blue/redTowersDestroyed: number of towers the blue/red team destroyed
+blue/redTotalGold: total amount of gold the blue/red team had
+blue/redAverageLevel: average level of the champions on the blue/red team
+blue/redTotalExperience: total amount of experience the blue/red team gained
+blue/redTotalMinionsKilled: total number of minions the blue/red team killed
+blue/redTotalJungleMinionsKilled: total number of jungle minions the blue/red team killed
+blue/redGoldDiff: the difference between the total gold of the blue/red team and the total gold of the red/blue team
+blue/redExperienceDiff: the difference between the total experience of the blue/red team and the total experience of the red/blue team
+blue/redCSPerMin: the number of minions/jungle minions the blue/red team killed per minute 
+blue/redGoldPerMin: the amount of gold the blue/red team earned per minute
