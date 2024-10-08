@@ -26,7 +26,7 @@ The key features in this dataset include:
 
 ## Usage
 
-The PDF version of the project is [here](./Predicting_the_Outcome_of_LoL_Game). The original project is an HTML file which can be viewed [here](https://drive.google.com/file/d/17WbG3SM3lLllVCqy-pikxrMVwO7zKBi6/view?usp=sharing)
+The PDF version of the project is [here](./Predicting_the_Outcome_of_LoL_Game.pdf). The original project is an HTML file which can be viewed [here](https://drive.google.com/file/d/17WbG3SM3lLllVCqy-pikxrMVwO7zKBi6/view?usp=sharing)
 
 ## Models
 This project implements the following models:
